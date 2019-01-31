@@ -8,5 +8,5 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a son who is a cat. He is super adorable and inspires me to be a better person everyday. I like to try new things and can't wait to see what life has in store for me.
 
