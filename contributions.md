@@ -20,6 +20,6 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
+|  6   | (link)[https://github.com/nyu-ossd-s19/vivfang-weekly/issues/1]    | course website    |   I fixed a spelling error.    |
 |     |     |     |      |
 |     |     |     |      |
