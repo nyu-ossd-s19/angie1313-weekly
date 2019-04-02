@@ -24,3 +24,4 @@ Replace the first row with your contribution.
 |  7  | https://github.com/nyu-ossd-s19/ericachio-weekly/issues/1    | course blog    |  fixed a spelling error    |
 |  7   | https://github.com/nyu-ossd-s19/hassan3095-weekly/issues/2    | course blog    |  fixed a spelling error  |
 |  7   |https://github.com/nyu-ossd-s19/StanimalTheMan-weekly/issues/2  | course blog  | Suggested standard format |
+|  7   |https://github.com/nyu-ossd-s19/anthonykyi-weekly/issues/5    | course blog   | Spelling error    |
