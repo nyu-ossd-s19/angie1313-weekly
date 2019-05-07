@@ -20,11 +20,11 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  6   | https://github.com/nyu-ossd-s19/vivfang-weekly/issues/1    | course blog    |   I fixed a spelling error  |
-|  7  | https://github.com/nyu-ossd-s19/ericachio-weekly/issues/1    | course blog    |  fixed a spelling error    |
-|  7   | https://github.com/nyu-ossd-s19/hassan3095-weekly/issues/2    | course blog    |  fixed a spelling error  |
-|  7   |https://github.com/nyu-ossd-s19/StanimalTheMan-weekly/issues/2  | course blog  | Suggested standard format |
-|  7   |https://github.com/nyu-ossd-s19/anthonykyi-weekly/issues/5    | course blog   | Spelling error    |
-| 8   | https://en.wikipedia.org/wiki/Special:Contributions/AngelinaU | wikipedia | small fix link, added a link |
-| 9 | https://en.wikipedia.org/wiki/Special:Contributions/AngelinaU | wikipedia | enhanced translation from spanish |
-| 10 | https://github.com/Idered/Editr.js/issues/36 | Idered/Editr.js | made an issue of broekn link |
+|  6   | [https://github.com/nyu-ossd-s19/vivfang-weekly/issues/1]    | course blog    |   I fixed a spelling error  |
+|  7  | [https://github.com/nyu-ossd-s19/ericachio-weekly/issues/1]    | course blog    |  fixed a spelling error    |
+|  7   | [https://github.com/nyu-ossd-s19/hassan3095-weekly/issues/2]    | course blog    |  fixed a spelling error  |
+|  7   | [https://github.com/nyu-ossd-s19/StanimalTheMan-weekly/issues/2]  | course blog  | Suggested standard format |
+|  7   | [https://github.com/nyu-ossd-s19/anthonykyi-weekly/issues/5]    | course blog   | Spelling error    |
+| 8   | [https://en.wikipedia.org/wiki/Special:Contributions/AngelinaU] | wikipedia | small fix link, added a link |
+| 9 | [https://en.wikipedia.org/wiki/Special:Contributions/AngelinaU] | wikipedia | enhanced translation from spanish |
+| 10 | [https://github.com/Idered/Editr.js/issues/36 | Idered/Editr.js] | made an issue of broekn link |
