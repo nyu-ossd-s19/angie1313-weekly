@@ -27,4 +27,4 @@ Replace the first row with your contribution.
 |  7   | [link](https://github.com/nyu-ossd-s19/anthonykyi-weekly/issues/5)    | course blog   | Spelling error    |
 | 8   | [link](https://en.wikipedia.org/wiki/Special:Contributions/AngelinaU) | wikipedia | small fix link, added a link |
 | 9 | [link](https://en.wikipedia.org/wiki/Special:Contributions/AngelinaU) | wikipedia | enhanced translation from spanish |
-| 10 | [link](https://github.com/Idered/Editr.js/issues/36) | Idered/Editr.js | made an issue of broekn link |
+| 10 | [link](https://github.com/Idered/Editr.js/issues/36) | Idered/Editr.js | made an issue of broken link |
